@@ -2,8 +2,11 @@ package Number;
 
 public class AddnewTestClass {
 
-	public static void main(String[] args) {
+	
+	public void test() {
 		System.out.println("For changes and again commit");
+		
+		
 
 	}
 
